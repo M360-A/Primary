@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mafai\\source\\repos\\M360-A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|solutionrelative:m360-a.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|solutionrelative:m360-a.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|solutionrelative:m360-a.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|solutionrelative:m360-a.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|solutionrelative:m360-a.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|solutionrelative:m360-a.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7072B8AA-004B-4638-BFDB-B99FD01F9DE8}|m360-a.client\\m360-a.client.esproj|solutionrelative:m360-a.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22A7989-E2A2-4BBA-91A3-E99EE8FF20BE}|M360-A.Server\\M360-A.Server.csproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22A7989-E2A2-4BBA-91A3-E99EE8FF20BE}|M360-A.Server\\M360-A.Server.csproj|solutionrelative:m360-a.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22A7989-E2A2-4BBA-91A3-E99EE8FF20BE}|M360-A.Server\\M360-A.Server.csproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22A7989-E2A2-4BBA-91A3-E99EE8FF20BE}|M360-A.Server\\M360-A.Server.csproj|solutionrelative:m360-a.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22A7989-E2A2-4BBA-91A3-E99EE8FF20BE}|M360-A.Server\\M360-A.Server.csproj|c:\\users\\mafai\\source\\repos\\m360-a\\m360-a.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22A7989-E2A2-4BBA-91A3-E99EE8FF20BE}|M360-A.Server\\M360-A.Server.csproj|solutionrelative:m360-a.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "m360-a.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "m360-a.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-25T20:01:24.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "m360-a.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "m360-a.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-25T20:01:18.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "m360-a.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "m360-a.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-25T20:01:13.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "m360-a.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "m360-a.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-25T19:59:52.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "m360-a.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "m360-a.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-25T20:01:11.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\index.html",
+              "RelativeDocumentMoniker": "m360-a.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\index.html",
+              "RelativeToolTip": "m360-a.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-25T20:01:07.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "m360-a.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\m360-a.client\\src\\main.ts",
+              "RelativeToolTip": "m360-a.client\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-25T20:00:25.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\M360-A.Server\\Program.cs",
+              "RelativeDocumentMoniker": "M360-A.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\M360-A.Server\\Program.cs",
+              "RelativeToolTip": "M360-A.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T21:56:35.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\M360-A.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "M360-A.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\M360-A.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "M360-A.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T21:56:29.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mafai\\source\\repos\\M360-A\\M360-A.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "M360-A.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mafai\\source\\repos\\M360-A\\M360-A.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "M360-A.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T21:56:14.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
